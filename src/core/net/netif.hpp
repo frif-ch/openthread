@@ -492,6 +492,7 @@ private:
 
     static const otNetifMulticastAddress kRealmLocalAllMplForwardersMulticastAddress;
     static const otNetifMulticastAddress kLinkLocalAllNodesMulticastAddress;
+	static const otNetifMulticastAddress kOrganizationAllNodesMulticastAddress;
     static const otNetifMulticastAddress kRealmLocalAllNodesMulticastAddress;
     static const otNetifMulticastAddress kLinkLocalAllRoutersMulticastAddress;
     static const otNetifMulticastAddress kRealmLocalAllRoutersMulticastAddress;
